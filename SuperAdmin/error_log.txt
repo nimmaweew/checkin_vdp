@@ -1,0 +1,103 @@
+[05-Jan-2021 04:18:03 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:03 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:03 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:03 UTC] PHP Notice:  Undefined variable: conn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:18:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:18:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 10
+[05-Jan-2021 04:18:13 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:13 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:13 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:13 UTC] PHP Notice:  Undefined variable: conn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:18:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:18:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 10
+[05-Jan-2021 04:18:24 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:24 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:24 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:18:24 UTC] PHP Notice:  Undefined variable: conn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:18:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:18:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 10
+[05-Jan-2021 04:19:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:19:39 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:19:39 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:19:39 UTC] PHP Notice:  Undefined variable: conn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:19:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:19:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 10
+[05-Jan-2021 04:19:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:19:46 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:19:46 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 2
+[05-Jan-2021 04:19:46 UTC] PHP Notice:  Undefined variable: conn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:19:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 9
+[05-Jan-2021 04:19:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 10
+[05-Jan-2021 06:41:52 UTC] PHP Notice:  Undefined index: pass in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 19
+[05-Jan-2021 06:41:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 22
+[05-Jan-2021 06:43:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 22
+[05-Jan-2021 06:45:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 22
+[05-Jan-2021 06:46:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 22
+[05-Jan-2021 07:15:15 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:18:04 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:19:15 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:20:04 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:20:17 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:20:32 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:25:09 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:33:08 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:33:11 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:34:31 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:36:13 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:36:24 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[05-Jan-2021 07:55:30 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[06-Jan-2021 01:05:58 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[06-Jan-2021 03:18:48 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[06-Jan-2021 06:39:56 UTC] PHP Notice:  Undefined variable: connn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:39:56 UTC] PHP Notice:  Undefined variable: id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:39:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:42:04 UTC] PHP Notice:  Undefined variable: connn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:42:04 UTC] PHP Notice:  Undefined variable: id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:42:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:52:43 UTC] PHP Notice:  Undefined variable: connn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:52:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:53:35 UTC] PHP Notice:  Undefined variable: connn in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:53:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 06:53:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 74
+[06-Jan-2021 07:42:47 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/Home_dept.php on line 77
+[06-Jan-2021 07:42:47 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/Home_dept.php on line 77
+[06-Jan-2021 07:42:49 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/Home_dept.php on line 77
+[06-Jan-2021 07:42:49 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/Home_dept.php on line 77
+[06-Jan-2021 07:46:41 UTC] PHP Notice:  Undefined index: comid in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 100
+[06-Jan-2021 07:46:41 UTC] PHP Notice:  Undefined variable: dept_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:46:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:46:41 UTC] PHP Notice:  Undefined variable: dept_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 105
+[06-Jan-2021 07:46:41 UTC] PHP Notice:  Undefined variable: dept_name in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 105
+[06-Jan-2021 07:48:02 UTC] PHP Notice:  Undefined index: comid in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 100
+[06-Jan-2021 07:48:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:49:00 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:49:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:51:08 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:51:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:51:20 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:51:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:51:24 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:51:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:52:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 101
+[06-Jan-2021 07:56:14 UTC] PHP Notice:  Undefined index: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 115
+[06-Jan-2021 07:56:18 UTC] PHP Notice:  Undefined index: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 115
+[06-Jan-2021 07:57:07 UTC] PHP Notice:  Undefined index: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 115
+[06-Jan-2021 07:59:20 UTC] PHP Notice:  Undefined variable: com_id in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 117
+[06-Jan-2021 10:36:22 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[07-Jan-2021 07:40:06 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[07-Jan-2021 07:46:26 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[07-Jan-2021 08:18:22 UTC] PHP Notice:  Undefined index: level in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 155
+[07-Jan-2021 08:18:24 UTC] PHP Notice:  Undefined index: level in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 155
+[07-Jan-2021 08:18:26 UTC] PHP Notice:  Undefined index: level in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/ajax.php on line 155
+[07-Jan-2021 09:16:55 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[07-Jan-2021 09:29:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 2
+[07-Jan-2021 12:03:58 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[07-Jan-2021 14:19:39 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[07-Jan-2021 14:30:02 UTC] PHP Notice:  Undefined variable: name_time in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/Home_time.php on line 38
+[07-Jan-2021 14:30:02 UTC] PHP Notice:  Undefined variable: name_time in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/Home_time.php on line 38
+[07-Jan-2021 14:30:02 UTC] PHP Notice:  Undefined variable: name_time in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/Home_time.php on line 38
+[08-Jan-2021 01:42:31 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[09-Jan-2021 04:30:45 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[10-Jan-2021 01:34:58 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[10-Jan-2021 03:26:45 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
+[11-Jan-2021 03:54:50 UTC] PHP Notice:  Undefined index: status in /home/u832132406/domains/thongchaith.tk/public_html/Server2/SuperAdmin/logincheck.php on line 4
